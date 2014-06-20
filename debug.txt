@@ -1,0 +1,5 @@
+commands that will be usefull:
+
+tox -epy27 <path.for.test>
+
+tox -e venv "python -m unittest discover -t . ceilometer/tests"
